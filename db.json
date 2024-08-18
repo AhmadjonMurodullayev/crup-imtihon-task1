@@ -2,11 +2,35 @@
   "Prodact": [
     {
       "id": "a5d3",
-      "name": "Samsun S22",
-      "price": "5000",
+      "name": "Redmi 23dg",
+      "price": "5555",
       "number": "1200",
       "brand": "Samsung",
       "color": "#181616"
+    },
+    {
+      "id": "73c1",
+      "name": "Redmi 12",
+      "price": "500",
+      "number": "100",
+      "brand": "Redmi",
+      "color": "#933e3e"
+    },
+    {
+      "id": "5684",
+      "name": "Iphone 16",
+      "price": "500",
+      "number": "200",
+      "brand": "Apple",
+      "color": "#d79898"
+    },
+    {
+      "id": "d4d0",
+      "name": "Samsun S22",
+      "price": "51",
+      "number": "200",
+      "brand": "Samsung",
+      "color": "#d07171"
     }
   ]
 }
